@@ -1,0 +1,15 @@
+git clone <repository url>
+
+git status
+
+git add .
+
+git status
+
+git commit -m 'added *** file'
+
+$ git config --global user.name "your name"
+$ git config --global user.email "your email"
+
+git push
+
